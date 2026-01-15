@@ -6,12 +6,11 @@
 
 - （例）CLI/スクリプトの動作確認
 - （例）GitHub Actions の検証
-- （例）設定ファイルの検証
 
 ## 前提
 
 - macOS
-- Git
+- GithubDesktop
 
 ## セットアップ
 
