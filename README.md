@@ -10,8 +10,8 @@
 ## 前提
 
 - macOS
-- GithubDesktop
-
+- Git
+zzz
 ## セットアップ
 
 ```sh
